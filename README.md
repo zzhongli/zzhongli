@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzhongli
 - 👀 I’m interested in Java, Spring Boot, JavaScript, React, Algorithm and Data Structures.
 - 🌱 I’m currently learning Docker.
-- 📫 How to reach me ..
+- 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
 <!---
