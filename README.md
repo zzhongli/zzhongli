@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Spring Boot, JavaScript, React, Algorithm and Data Structures.
 - 🌱 I’m currently learning Docker.
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 
 <!---
 zzhongli/zzhongli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
