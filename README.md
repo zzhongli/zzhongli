@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzhongli
 - 👀 I’m interested in Java, Spring Boot, Algorithm and Data Structures.
-- 🌱 I’m currently learning Selenium.
+- 🌱 I’m currently learning Selenium and Playwright.
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
